@@ -1,2 +1,2 @@
 # useReducer-react
-Created with CodeSandbox
+State management using useReducer 

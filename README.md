@@ -1,2 +1,2 @@
 # useReducer-react
-State management using useReducer 
+State management using useReducer.
